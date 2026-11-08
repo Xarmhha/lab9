@@ -1,0 +1,7 @@
+﻿  Source.c
+D:\project\lab9\lab9\Source.c(6,5): warning C4013: task1_1: нет определения; предполагается "extern" с возвратом типа "int"
+D:\project\lab9\lab9\Source.c(7,5): warning C4013: task1_2: нет определения; предполагается "extern" с возвратом типа "int"
+D:\project\lab9\lab9\Source.c(8,5): warning C4013: task1_3: нет определения; предполагается "extern" с возвратом типа "int"
+D:\project\lab9\lab9\Source.c(9,5): warning C4013: task2: нет определения; предполагается "extern" с возвратом типа "int"
+D:\project\lab9\lab9\Source.c(10,5): warning C4013: task3: нет определения; предполагается "extern" с возвратом типа "int"
+  lab9.vcxproj -> D:\project\lab9\x64\Debug\lab9.exe
